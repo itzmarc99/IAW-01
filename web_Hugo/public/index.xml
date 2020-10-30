@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marc Restaurant</title>
+    <link>https://cartamarc.com/</link>
+    <description>Recent content on Marc Restaurant</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-us</language><atom:link href="https://cartamarc.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://cartamarc.com/carta/postres/caf%C3%A9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cartamarc.com/carta/postres/caf%C3%A9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://cartamarc.com/carta/postres/gelat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cartamarc.com/carta/postres/gelat/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
